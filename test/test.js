@@ -5,8 +5,7 @@ const expect                = chai.expect;
 
 class Fairness {
     is_fair(a, b) {
-        console.log(a);
-        console.log(b);
+        return "Success!";
     }
 }
 
